@@ -8,8 +8,17 @@ data.
 
 ## Requirements
 
-* PHP >= 7.1
+* PHP >= 8.1
 * DHL Express customer account able to access the production endpoints (optionally sandpit too)
+
+## Laravel 10 Compatibility
+
+This fork has been updated to support Laravel 10 and PHP 8.1+. The following changes were made:
+
+* Updated PHP requirement from ^7.1 to ^8.1
+* Updated PSR-Log dependency to support versions ^1.0|^2.0|^3.0
+
+This fork is maintained by [mamonv](https://github.com/mamonv).
 
 ## Installation Instructions
 
